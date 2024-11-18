@@ -1,5 +1,4 @@
 print("hello")
 print("vvce")
-print("nai")
-print("add")
-print("see")
+print("123")
+print("r")
